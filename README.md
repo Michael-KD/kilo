@@ -1,1 +1,3 @@
-variation of kilo text editor
+# Simple text editor in C
+
+https://viewsourcecode.org/snaptoken/kilo/
